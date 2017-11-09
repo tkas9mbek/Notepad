@@ -34,4 +34,4 @@ entry.read_from_console
 
 entry.write_file
 
-puts "Your notes were saved"
+puts "Your #{choices[choice]} was saved"
