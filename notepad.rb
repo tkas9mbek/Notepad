@@ -35,3 +35,4 @@ entry.read_from_console
 entry.write_file
 
 puts "Your #{choices[choice]} was saved"
+puts "Have a good day!"
