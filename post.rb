@@ -5,7 +5,7 @@ class Post
   end
 
   def self.post_type
-    [Note, Link, Task]
+    [Note, Link, Task, Twit]
   end
 
   def self.create(type_index)
